@@ -1,0 +1,14 @@
+
+1. Two type of namespace global or self define. example?
+
+2. error - Namespace declaration statement has to be the very first      statement or after any declare call in the script in Standard input code.
+
+3. error - Cannot redeclare One\bilal() (previously declared in Standard input code:10) in Standard input code
+
+4.error - No code may exist outside of namespace {} in Standard input code
+
+5. how to create object . 
+6."use" key-word.??
+
+
+
